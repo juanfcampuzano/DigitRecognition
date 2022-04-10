@@ -6,7 +6,7 @@
 - Performed error analysis to make decisions to improve model performance.
 - Built a client facing API using Django. 
 # Code and Resources Used
-**Python Version:** 3.7.12 
+**Python Version:** 3.7
 
 **Packages:** tensorflow, matplotlib, sklearn, numpy, pandas, seaborn
 # Model Building
