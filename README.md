@@ -20,7 +20,7 @@ I used a Convolutional Neural Network model and evaluated it using Accuracy.
 
 The first step was to overfit the training set to reduce bias and then make adjustments to the model to reduce variance. 
 Techniques to reduce bias: train the model for a longer time, make the neural network deeper, add more neurons to the network.
-Techniques to reduce variance: add dropout layers, l2 regularization, batch normalization.
+Techniques to reduce variance: add dropout layers, l2 regularization, batch normalization, data augmentation.
 
 # Model Performance
 The performance of the Convolutional Neural Network was satisfactory. 
