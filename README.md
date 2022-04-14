@@ -24,5 +24,6 @@ Techniques to reduce variance: add dropout layers, l2 regularization, batch norm
 
 # Model Performance
 The performance of the Convolutional Neural Network was satisfactory. 
-
+During development I submitted the output file and got a public score (accuracy) of 0.99457, but during development I sent the output file and got a public score of 0.99457, but later when I saved the model and ran it again, I got a public score of 0.99478.
 # Productionalization
+In this step, I built a fjango API which takes in a request with a image and returns the recognized digit in the image.  
